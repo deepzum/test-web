@@ -15,6 +15,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace TestWeb
 {
+    // Startup
     public class Startup
     {
         public Startup(IConfiguration configuration)

@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 namespace TestWeb
 {
     /// <summary>
-    /// Program
+    /// Prog
     /// </summary>
     public class Program
     {

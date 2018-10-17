@@ -10,6 +10,9 @@ using Microsoft.Extensions.Logging;
 
 namespace TestWeb
 {
+    /// <summary>
+    /// Program
+    /// </summary>
     public class Program
     {
         public static void Main(string[] args)
